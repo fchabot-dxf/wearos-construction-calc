@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "apkFile": "app-debug.apk",
+  "apkSize": 12219283,
+  "sha256": "dc46f991be91a67db792ccc9494e7b866e9c5ba76b778b697d296484bc680185",
+  "apkUrl": "https://github.com/fchabot-dxf/wearos-construction-calc/releases/download/v2/app-debug.apk",
+  "releaseNotes": "Wear OS Conversion Tile & Calculator build v1.0.2",
+  "timestamp": "2026-10-13T12:32:51.926087+00:00"
+}

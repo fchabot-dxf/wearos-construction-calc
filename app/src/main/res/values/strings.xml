@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Construction Calc</string>
+    <string name="tile_conversions_name">Tableau Conversions</string>
+    <string name="tile_conversions_desc">Tableau de conversions rapides Fractions, Décimales et Millimètres</string>
+</resources>
+

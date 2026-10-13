@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Circle background -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M24,2A22,22 0 1,0 46,24,22.025,22.025 0 0,0 24,2Z"/>
+    <!-- Orange/Amber construction border -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:pathData="M24,5A19,19 0 1,0 43,24,19.02,19.02 0 0,0 24,5Z"/>
+    <!-- Calculator body -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M13,11h22a2,2 0 0,1 2,2v22a2,2 0 0,1 -2,2h-22a2,2 0 0,1 -2,-2v-22a2,2 0 0,1 2,-2z"/>
+    <!-- LCD screen -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M16,14h16v6h-16z"/>
+    <!-- Keypad dots -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M16,23h4v4h-4z M22,23h4v4h-4z M28,23h4v4h-4z M16,29h4v4h-4z M22,29h4v4h-4z M28,29h4v4h-4z"/>
+</vector>
